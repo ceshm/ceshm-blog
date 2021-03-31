@@ -1,0 +1,20 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+
+title = "Cesar Hernandez"
+author = "ceshm"
+theme = "contrast-hugo"
+
+
+[params]
+minimal = false
+excerpts = false
+description = "my blog"
+
+
+[menu]
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "http://ceshm.com/"
+weight = 10

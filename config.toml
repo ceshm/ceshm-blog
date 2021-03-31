@@ -16,5 +16,5 @@ description = "my blog"
 [[menu.main]]
 identifier = "about"
 name = "About"
-url = "http://ceshm.com/"
+url = "http://www.ceshm.com/"
 weight = 10

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Cesar Hernandez</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Cesar Hernandez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Nov 2020 18:06:26 -0600</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Structure from motion</title>
+      <link>http://example.org/posts/structure/</link>
+      <pubDate>Thu, 19 Nov 2020 18:06:26 -0600</pubDate>
+      
+      <guid>http://example.org/posts/structure/</guid>
+      <description>This might be a misleading title as this is not about the computer vision term, but a nice way of reminding myself that going for a walk, changing scenery, talking to different people, and having new experiences are crucial for having a healthy life.
+We all have bad days were we feel really uninspired. Sometimes it really surprises me how bad it can get. Getting stuck is the best way to call it.</description>
+    </item>
+    
+    <item>
+      <title>Conoce tu pueblo</title>
+      <link>http://example.org/posts/pueblo/</link>
+      <pubDate>Sat, 26 Sep 2020 18:07:35 -0600</pubDate>
+      
+      <guid>http://example.org/posts/pueblo/</guid>
+      <description>Hoy mi tía nos estaba contando sobre varias personas de Playa que han sido víctimas del crimen organizado. Que si Fulanito tenia un negocio y le empezó a ir bien y tenia dinero y se compro una camioneta y la estaba presumiendo, y entonces le cayeron los malos y le empezaron a pedir el derecho de suelo&amp;hellip; Todas estas personas con negocios pequeños son las más vulnerables. Los de abajo siempre lo han sido.</description>
+    </item>
+    
+    <item>
+      <title>Vaporwave is the perfect art movement for a post COVID-19 world</title>
+      <link>http://example.org/posts/vaporwave/</link>
+      <pubDate>Fri, 15 May 2020 17:42:18 -0600</pubDate>
+      
+      <guid>http://example.org/posts/vaporwave/</guid>
+      <description>Several weeks into quarantine and it&amp;rsquo;s easy to see how many aspects of our life have changed for good. This pandemic has left a deep mark on all of us. Our interactions with others have been forced to go online, we&amp;rsquo;ve learned how capable we are to get work done remotely, and also how much we still need to improve and build. It&amp;rsquo;s clearer than ever how important this virtual mediums are and the pain points we still need to overcome.</description>
+    </item>
+    
+    <item>
+      <title>Maker&#39;s block</title>
+      <link>http://example.org/posts/makersblock/</link>
+      <pubDate>Sun, 26 Apr 2020 18:07:14 -0600</pubDate>
+      
+      <guid>http://example.org/posts/makersblock/</guid>
+      <description>It&amp;rsquo;s been a long time since I wrote my first post. I also have been struggling to work on my projects, but a lot has happened in the last months. First of all, the current pandemic that is forcing most of us to stay home, which even for a hermit like me has had a negative impact on my mental health (those daily walks and trips to the café were an integral part of my routine).</description>
+    </item>
+    
+    <item>
+      <title>Dropping out of college</title>
+      <link>http://example.org/posts/dropout/</link>
+      <pubDate>Fri, 31 Jan 2020 18:06:55 -0600</pubDate>
+      
+      <guid>http://example.org/posts/dropout/</guid>
+      <description>I started waking up everyday feeling miserable, most of the classes seemed pointless and I felt like I just didn&amp;rsquo;t belong to that place. This is how I spent my last two years attending college. It was really hard to realize what I had to do, but now I feel like dropping out was one of the best decisions I could have made.
+In 2012 I started studying the B.S. of Software Engineering, a degree that is relatively new but has started to be offered by some universities around Mexico in the last decade.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Cesar Hernandez</title>
-    <link>http://blog.ceshm.com/categories/</link>
+    <link>//blog.ceshm.com/categories/</link>
     <description>Recent content in Categories on Cesar Hernandez</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://blog.ceshm.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="//blog.ceshm.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
